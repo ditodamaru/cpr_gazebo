@@ -1,3 +1,8 @@
+<!--
+\file      spawn_bunker.launch
+\authors   Anditya Sridamar Pratyasta <anditya.sridamar.p@kangwon.ac.kr>
+-->
+
 <launch>
   <arg name="x" default="0.0"/>
   <arg name="y" default="0.0"/>
